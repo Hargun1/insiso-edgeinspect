@@ -1,0 +1,161 @@
+{
+  "started_at": "2026-10-25T17:25:24.777152+00:00",
+  "scratch": "C:\\Users\\hargu\\AppData\\Local\\Temp\\insiso-final-qa-cvygxle2",
+  "checks": {
+    "selected_model_hashes": "passed",
+    "published_file_manifest": {
+      "status": "passed",
+      "files": 137
+    },
+    "downloaded_data_hashes": {
+      "status": "passed",
+      "files": 430
+    },
+    "fresh_label_and_split_preparation": {
+      "status": "passed",
+      "images": 335,
+      "counts": {
+        "train": 199,
+        "val": 67,
+        "test": 69
+      }
+    },
+    "baseline_val": {
+      "status": "passed",
+      "images": 67,
+      "precision": 0.625,
+      "recall": 0.3125,
+      "map50": 0.3893194305694306,
+      "tp": 10,
+      "fp": 6,
+      "fn": 22
+    },
+    "augmented_val": {
+      "status": "passed",
+      "images": 67,
+      "precision": 0.4782608695652174,
+      "recall": 0.34375,
+      "map50": 0.46278679653679655,
+      "tp": 11,
+      "fp": 12,
+      "fn": 21
+    },
+    "selected_test": {
+      "status": "passed",
+      "images": 69,
+      "precision": 0.34375,
+      "recall": 0.4074074074074074,
+      "map50": 0.5182126674546887,
+      "tp": 11,
+      "fp": 21,
+      "fn": 16
+    },
+    "onnx_test": {
+      "status": "passed",
+      "images": 69,
+      "precision": 0.34375,
+      "recall": 0.4074074074074074,
+      "map50": 0.5182126674546887,
+      "tp": 11,
+      "fp": 21,
+      "fn": 16
+    },
+    "fresh_onnx_export": {
+      "status": "passed",
+      "bytes": 10441129,
+      "path": "C:\\Users\\hargu\\AppData\\Local\\Temp\\insiso-final-qa-cvygxle2\\selected.onnx"
+    },
+    "fresh_export_test": {
+      "status": "passed",
+      "images": 69,
+      "precision": 0.34375,
+      "recall": 0.4074074074074074,
+      "map50": 0.5182126674546887,
+      "tp": 11,
+      "fp": 21,
+      "fn": 16
+    },
+    "fresh_cpu_benchmark": {
+      "status": "passed",
+      "warmups": 20,
+      "iterations": 100,
+      "timing_ms": {
+        "preprocess": {
+          "mean": 1.9313429994508624,
+          "p50": 1.786349996109493,
+          "p95": 2.810314997623209
+        },
+        "inference": {
+          "mean": 33.07996500065201,
+          "p50": 31.367000003228895,
+          "p95": 42.316625000239576
+        },
+        "postprocess": {
+          "mean": 0.9246889998030383,
+          "p50": 0.8352499935426749,
+          "p95": 1.4422150001337286
+        },
+        "total": {
+          "mean": 35.93599699990591,
+          "p50": 34.02469999855384,
+          "p95": 45.53208500001346
+        }
+      },
+      "note": "Verification timing only; published benchmark is preserved."
+    },
+    "http_end_to_end": {
+      "status": "passed",
+      "base": "http://127.0.0.1:8000",
+      "health": {
+        "model_loaded": true,
+        "model": "YOLO11n / ONNX",
+        "provider": "CPUExecutionProvider",
+        "cloud_inference": false,
+        "status": "ready"
+      },
+      "samples": {
+        "good": {
+          "decision": "NO_DEFECT_DETECTED",
+          "detections": 0,
+          "inference_ms": 34.599300008267164
+        },
+        "flip": {
+          "decision": "REVIEW",
+          "detections": 2,
+          "inference_ms": 69.41619999997783
+        }
+      },
+      "input_validation": {
+        "unsupported_type": 415,
+        "corrupt_image": 400,
+        "oversized_upload": 413,
+        "invalid_confidence": 422
+      },
+      "frontend_assets": "served successfully",
+      "experiment_results": "served successfully"
+    },
+    "unit_tests": {
+      "status": "passed",
+      "tests": 19
+    },
+    "python_compilation": {
+      "status": "passed"
+    },
+    "dependency_consistency": {
+      "status": "passed",
+      "output": "No broken requirements found."
+    },
+    "react_production_build": {
+      "status": "passed",
+      "vite": "7.1.7",
+      "modules": 23
+    }
+  },
+  "browser": {
+    "status": "blocked",
+    "reason": "Computer Use was not approved to use Microsoft Edge"
+  },
+  "training": "Existing trained checkpoints re-evaluated; no retraining or test-driven model/threshold changes.",
+  "status": "passed_with_model_and_browser_limitations",
+  "finished_at": "2026-10-25T17:26:11.387667+00:00"
+}

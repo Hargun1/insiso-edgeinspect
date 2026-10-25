@@ -62,6 +62,10 @@
       "bytes": 300467,
       "sha256": "3d4d9f505aec24e6b95cf55978f6ddc6c56c7957510c0e042ad087ec5537ff8f"
     },
+    "artifacts/final_verification.json": {
+      "bytes": 4319,
+      "sha256": "2620fbde39476095d7cdca56a376c05c5de82688077d447ffafa0b4c87f10374"
+    },
     "artifacts/integration_checks.json": {
       "bytes": 465,
       "sha256": "4e9b202c0cd659f850acb6598277c401f3fe8e28ebac40c35ab1c2b428436a1e"
@@ -151,8 +155,8 @@
       "sha256": "15968f802bb9ec339cb7cbca5fea0628693c03b43725147b56d850ca9630ab52"
     },
     "docs/STATUS.md": {
-      "bytes": 2481,
-      "sha256": "3c702334cffd62774f92719852c111634cd5bfad339c6f9785d8489c7b92dbaa"
+      "bytes": 3362,
+      "sha256": "c29719683f5d310bddf247302f0fd64298816932d5ef10f472eb0e5e80ecf7bb"
     },
     "docs/SUBMISSION.md": {
       "bytes": 1250,
