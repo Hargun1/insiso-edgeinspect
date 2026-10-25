@@ -1,0 +1,3180 @@
+[
+  {
+    "id": "test_good_002",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\test_good_002.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "test_good_012",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\test_good_012.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_086",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_086.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_195",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_195.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0013463199138641357,
+        "box": [
+          136.14662170410156,
+          63.991085052490234,
+          250.91465759277344,
+          217.976318359375
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_good_001",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\test_good_001.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_039",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_039.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_206",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_206.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_087",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_087.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0011054277420043945,
+        "box": [
+          238.68115234375,
+          49.88004684448242,
+          367.5695495605469,
+          161.0267791748047
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.001025557518005371,
+        "box": [
+          103.16938018798828,
+          18.041200637817383,
+          694.2011108398438,
+          700.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_good_005",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\test_good_005.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.001074463129043579,
+        "box": [
+          554.0675048828125,
+          206.56454467773438,
+          699.3587646484375,
+          428.10986328125
+        ]
+      }
+    ]
+  },
+  {
+    "id": "train_good_178",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_178.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_040",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_040.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_194",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_194.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0011246204376220703,
+        "box": [
+          22.3190860748291,
+          201.9566192626953,
+          141.909423828125,
+          404.03753662109375
+        ]
+      }
+    ]
+  },
+  {
+    "id": "train_good_001",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_001.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_071",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_071.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0010578036308288574,
+        "box": [
+          18.99864959716797,
+          305.719482421875,
+          135.91058349609375,
+          511.1361999511719
+        ]
+      }
+    ]
+  },
+  {
+    "id": "train_good_150",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_150.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_114",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_114.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_056",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_056.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_107",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_107.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "test_good_009",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\test_good_009.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_179",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_179.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_166",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_166.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_183",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_183.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0016021728515625,
+        "box": [
+          550.344482421875,
+          343.0585632324219,
+          662.34521484375,
+          427.893798828125
+        ]
+      }
+    ]
+  },
+  {
+    "id": "train_good_050",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_050.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_143",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_143.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.019018828868865967,
+        "box": [
+          361.8201599121094,
+          562.6497802734375,
+          431.76422119140625,
+          655.943359375
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0065101683139801025,
+        "box": [
+          358.3408508300781,
+          566.025390625,
+          435.8591003417969,
+          659.6404418945312
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0015175938606262207,
+        "box": [
+          306.2060852050781,
+          556.4097900390625,
+          442.601318359375,
+          667.5576171875
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_good_019",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\test_good_019.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_154",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_154.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_129",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_129.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_059",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_059.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_055",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_055.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0010238885879516602,
+        "box": [
+          168.82933044433594,
+          57.36628341674805,
+          281.3132019042969,
+          204.97970581054688
+        ]
+      }
+    ]
+  },
+  {
+    "id": "train_good_023",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_023.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0024804770946502686,
+        "box": [
+          136.6519317626953,
+          64.79694366455078,
+          248.63619995117188,
+          217.28250122070312
+        ]
+      }
+    ]
+  },
+  {
+    "id": "train_good_007",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_007.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_008",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_008.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_108",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_108.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_151",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_151.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.00166243314743042,
+        "box": [
+          351.62554931640625,
+          37.38356399536133,
+          511.9260559082031,
+          176.99917602539062
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.001091688871383667,
+        "box": [
+          379.58538818359375,
+          319.8630676269531,
+          473.3477478027344,
+          460.7582702636719
+        ]
+      }
+    ]
+  },
+  {
+    "id": "train_good_022",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_022.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_139",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_139.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "test_good_008",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\test_good_008.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "test_good_018",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\test_good_018.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_173",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_173.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.001345127820968628,
+        "box": [
+          225.42811584472656,
+          270.2441101074219,
+          312.6005554199219,
+          399.1316833496094
+        ]
+      }
+    ]
+  },
+  {
+    "id": "train_good_026",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_026.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_188",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_188.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_035",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_035.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_057",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_057.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.02912425994873047,
+        "box": [
+          396.2270812988281,
+          50.09403610229492,
+          554.8447875976562,
+          272.7759094238281
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.017719507217407227,
+        "box": [
+          374.3592224121094,
+          52.21056365966797,
+          563.5340576171875,
+          275.17254638671875
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.007861673831939697,
+        "box": [
+          184.0028076171875,
+          430.470458984375,
+          499.32183837890625,
+          625.8173217773438
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.00446319580078125,
+        "box": [
+          373.81402587890625,
+          559.5391845703125,
+          455.2679748535156,
+          657.897216796875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.002703070640563965,
+        "box": [
+          203.6903076171875,
+          210.31651306152344,
+          328.8202819824219,
+          432.0076904296875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0024998486042022705,
+        "box": [
+          214.70571899414062,
+          459.0158996582031,
+          548.62744140625,
+          615.7448120117188
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0016399025917053223,
+        "box": [
+          242.1279754638672,
+          469.86669921875,
+          453.6553039550781,
+          652.8641967773438
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0011410117149353027,
+        "box": [
+          244.27407836914062,
+          458.44659423828125,
+          552.0706176757812,
+          564.507080078125
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0010007917881011963,
+        "box": [
+          45.6369743347168,
+          364.2142639160156,
+          549.5676879882812,
+          655.0518798828125
+        ]
+      }
+    ]
+  },
+  {
+    "id": "train_good_062",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_062.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.001070171594619751,
+        "box": [
+          276.35260009765625,
+          43.57849884033203,
+          367.2411804199219,
+          154.68673706054688
+        ]
+      }
+    ]
+  },
+  {
+    "id": "train_good_070",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_070.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_189",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_189.png",
+    "truth": [],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.005536288022994995,
+        "box": [
+          538.6585083007812,
+          242.3531951904297,
+          659.9723510742188,
+          334.8337097167969
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0014643371105194092,
+        "box": [
+          549.1458129882812,
+          251.53778076171875,
+          666.2603759765625,
+          451.26519775390625
+        ]
+      }
+    ]
+  },
+  {
+    "id": "train_good_006",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_006.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_028",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_028.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "train_good_163",
+    "category": "good",
+    "image": "data\\prepared\\images\\test\\train_good_163.png",
+    "truth": [],
+    "predictions": []
+  },
+  {
+    "id": "test_bent_007",
+    "category": "bent",
+    "image": "data\\prepared\\images\\test\\test_bent_007.png",
+    "truth": [
+      {
+        "class_id": 0,
+        "box": [
+          565,
+          355,
+          619,
+          456
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.7924934029579163,
+        "box": [
+          560.4008178710938,
+          342.0010681152344,
+          630.9786376953125,
+          450.3470153808594
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.6263502836227417,
+        "box": [
+          551.4757690429688,
+          310.66326904296875,
+          658.1925048828125,
+          460.7499694824219
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.02123504877090454,
+        "box": [
+          566.9866333007812,
+          333.70098876953125,
+          631.45068359375,
+          439.1790466308594
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0058793723583221436,
+        "box": [
+          547.4848022460938,
+          281.3518981933594,
+          659.2117919921875,
+          471.81512451171875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.004259377717971802,
+        "box": [
+          556.7393798828125,
+          360.77960205078125,
+          640.5579223632812,
+          464.9924011230469
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0018510818481445312,
+        "box": [
+          473.652099609375,
+          346.0576171875,
+          630.1082763671875,
+          458.5503234863281
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_bent_015",
+    "category": "bent",
+    "image": "data\\prepared\\images\\test\\test_bent_015.png",
+    "truth": [
+      {
+        "class_id": 0,
+        "box": [
+          181,
+          67,
+          443,
+          261
+        ]
+      },
+      {
+        "class_id": 0,
+        "box": [
+          395,
+          82,
+          408,
+          96
+        ]
+      },
+      {
+        "class_id": 0,
+        "box": [
+          96,
+          267,
+          211,
+          363
+        ]
+      },
+      {
+        "class_id": 0,
+        "box": [
+          91,
+          303,
+          130,
+          331
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.019829094409942627,
+        "box": [
+          224.08172607421875,
+          59.69517517089844,
+          340.47918701171875,
+          179.29168701171875
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.005979776382446289,
+        "box": [
+          539.1271362304688,
+          220.34030151367188,
+          662.5948486328125,
+          431.51416015625
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.004368424415588379,
+        "box": [
+          212.61212158203125,
+          69.21995544433594,
+          384.4477233886719,
+          171.60923767089844
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0038757920265197754,
+        "box": [
+          211.8119659423828,
+          21.154739379882812,
+          399.61187744140625,
+          177.0365753173828
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.003248453140258789,
+        "box": [
+          295.316162109375,
+          69.23381805419922,
+          410.22882080078125,
+          159.88755798339844
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.001445084810256958,
+        "box": [
+          23.61434555053711,
+          199.67764282226562,
+          143.9359893798828,
+          407.5052490234375
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0013744235038757324,
+        "box": [
+          211.06199645996094,
+          19.72797203063965,
+          434.7353210449219,
+          185.30796813964844
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_bent_024",
+    "category": "bent",
+    "image": "data\\prepared\\images\\test\\test_bent_024.png",
+    "truth": [
+      {
+        "class_id": 0,
+        "box": [
+          561,
+          349,
+          675,
+          470
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.88885498046875,
+        "box": [
+          551.8048095703125,
+          318.7581481933594,
+          665.8780517578125,
+          450.15435791015625
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.017986059188842773,
+        "box": [
+          539.0693969726562,
+          339.896240234375,
+          668.2802734375,
+          442.60272216796875
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0014640986919403076,
+        "box": [
+          554.2779541015625,
+          221.4830322265625,
+          695.5134887695312,
+          437.0257568359375
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_bent_018",
+    "category": "bent",
+    "image": "data\\prepared\\images\\test\\test_bent_018.png",
+    "truth": [
+      {
+        "class_id": 0,
+        "box": [
+          133,
+          39,
+          273,
+          186
+        ]
+      },
+      {
+        "class_id": 0,
+        "box": [
+          174,
+          202,
+          220,
+          232
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.06469067931175232,
+        "box": [
+          130.22567749023438,
+          31.250715255737305,
+          258.02935791015625,
+          209.03538513183594
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.010165184736251831,
+        "box": [
+          149.47625732421875,
+          83.68334197998047,
+          248.67864990234375,
+          195.00637817382812
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_bent_023",
+    "category": "bent",
+    "image": "data\\prepared\\images\\test\\test_bent_023.png",
+    "truth": [
+      {
+        "class_id": 0,
+        "box": [
+          197,
+          31,
+          353,
+          148
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.4202168583869934,
+        "box": [
+          198.12669372558594,
+          51.431251525878906,
+          293.3737487792969,
+          155.0110626220703
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.002990901470184326,
+        "box": [
+          202.97113037109375,
+          50.92367935180664,
+          299.5834655761719,
+          157.0592041015625
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0012969672679901123,
+        "box": [
+          532.8775634765625,
+          241.5483856201172,
+          657.7471313476562,
+          327.2066345214844
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.001194298267364502,
+        "box": [
+          80.25701141357422,
+          16.157094955444336,
+          276.6057434082031,
+          170.4398651123047
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_color_013",
+    "category": "color",
+    "image": "data\\prepared\\images\\test\\test_color_013.png",
+    "truth": [
+      {
+        "class_id": 1,
+        "box": [
+          408,
+          402,
+          606,
+          525
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.8777275681495667,
+        "box": [
+          402.7923889160156,
+          375.4955749511719,
+          608.106689453125,
+          548.7169189453125
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.33254003524780273,
+        "box": [
+          439.3480224609375,
+          440.66796875,
+          618.6246948242188,
+          541.7083129882812
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.3069821298122406,
+        "box": [
+          398.6843566894531,
+          403.1582946777344,
+          545.3079833984375,
+          515.5982666015625
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.2639508843421936,
+        "box": [
+          447.3787841796875,
+          437.1072692871094,
+          618.8787841796875,
+          549.2020263671875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.1799527108669281,
+        "box": [
+          401.58636474609375,
+          397.89117431640625,
+          546.9498901367188,
+          517.9471435546875
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.09395304322242737,
+        "box": [
+          399.7006530761719,
+          366.9428405761719,
+          543.6083374023438,
+          533.4615478515625
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.01435503363609314,
+        "box": [
+          406.9309387207031,
+          380.4594421386719,
+          639.4672241210938,
+          553.1396484375
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.002216517925262451,
+        "box": [
+          400.2080078125,
+          374.9878845214844,
+          511.8462219238281,
+          486.47515869140625
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0010668635368347168,
+        "box": [
+          527.8934936523438,
+          456.6868896484375,
+          615.4549560546875,
+          565.3211059570312
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_color_004",
+    "category": "color",
+    "image": "data\\prepared\\images\\test\\test_color_004.png",
+    "truth": [
+      {
+        "class_id": 1,
+        "box": [
+          194,
+          277,
+          271,
+          389
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.07880079746246338,
+        "box": [
+          182.9092559814453,
+          263.5570068359375,
+          310.8442687988281,
+          410.482666015625
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.01778152585029602,
+        "box": [
+          197.1737823486328,
+          278.75946044921875,
+          277.4078369140625,
+          392.6741943359375
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.003392338752746582,
+        "box": [
+          201.4913330078125,
+          279.1427917480469,
+          276.1519775390625,
+          384.47711181640625
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0026816725730895996,
+        "box": [
+          187.859130859375,
+          243.94187927246094,
+          312.8973388671875,
+          415.63568115234375
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_color_014",
+    "category": "color",
+    "image": "data\\prepared\\images\\test\\test_color_014.png",
+    "truth": [
+      {
+        "class_id": 1,
+        "box": [
+          489,
+          262,
+          646,
+          344
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.9514175653457642,
+        "box": [
+          482.85247802734375,
+          236.80831909179688,
+          642.4505004882812,
+          396.3207702636719
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.6105466485023499,
+        "box": [
+          492.27215576171875,
+          249.37977600097656,
+          646.7625732421875,
+          359.6933898925781
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.13363021612167358,
+        "box": [
+          479.5663146972656,
+          243.0905303955078,
+          606.7451171875,
+          422.13336181640625
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.016531765460968018,
+        "box": [
+          482.14007568359375,
+          215.37538146972656,
+          651.49951171875,
+          371.59564208984375
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.003373861312866211,
+        "box": [
+          488.8800048828125,
+          285.7253723144531,
+          608.119873046875,
+          360.10009765625
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0030901432037353516,
+        "box": [
+          487.50921630859375,
+          278.5527648925781,
+          569.88671875,
+          364.4756164550781
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0025736987590789795,
+        "box": [
+          365.133056640625,
+          177.9718475341797,
+          657.7233276367188,
+          406.70977783203125
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_color_017",
+    "category": "color",
+    "image": "data\\prepared\\images\\test\\test_color_017.png",
+    "truth": [
+      {
+        "class_id": 1,
+        "box": [
+          278,
+          528,
+          482,
+          656
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.820743203163147,
+        "box": [
+          259.8144836425781,
+          516.1454467773438,
+          409.70123291015625,
+          663.565673828125
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.07826244831085205,
+        "box": [
+          305.2241516113281,
+          529.2824096679688,
+          468.4286804199219,
+          655.0311279296875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.03884509205818176,
+        "box": [
+          253.38430786132812,
+          526.2796020507812,
+          392.72027587890625,
+          661.55810546875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.008657753467559814,
+        "box": [
+          261.52099609375,
+          476.62225341796875,
+          440.82177734375,
+          653.4434204101562
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.004496932029724121,
+        "box": [
+          323.2306213378906,
+          521.2900390625,
+          421.17864990234375,
+          638.2215576171875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.002236008644104004,
+        "box": [
+          285.88031005859375,
+          557.9276733398438,
+          421.18487548828125,
+          656.5269775390625
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0012663006782531738,
+        "box": [
+          247.43118286132812,
+          479.7870788574219,
+          424.25762939453125,
+          681.18701171875
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0011036098003387451,
+        "box": [
+          253.19705200195312,
+          561.5777587890625,
+          377.4902648925781,
+          652.3594970703125
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0010459721088409424,
+        "box": [
+          78.00933074951172,
+          0.0,
+          687.9551391601562,
+          700.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_color_006",
+    "category": "color",
+    "image": "data\\prepared\\images\\test\\test_color_006.png",
+    "truth": [
+      {
+        "class_id": 1,
+        "box": [
+          93,
+          205,
+          192,
+          283
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.7528856992721558,
+        "box": [
+          87.95489501953125,
+          189.92703247070312,
+          197.69598388671875,
+          276.4300842285156
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.27235519886016846,
+        "box": [
+          89.44303131103516,
+          196.79188537597656,
+          185.10546875,
+          267.8414306640625
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0035446882247924805,
+        "box": [
+          51.371768951416016,
+          176.6105194091797,
+          167.53086853027344,
+          290.0108337402344
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0029165446758270264,
+        "box": [
+          55.51303482055664,
+          170.4923858642578,
+          172.27459716796875,
+          278.8107604980469
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_flip_021",
+    "category": "flip",
+    "image": "data\\prepared\\images\\test\\test_flip_021.png",
+    "truth": [
+      {
+        "class_id": 2,
+        "box": [
+          54,
+          48,
+          656,
+          652
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 1.0,
+        "box": [
+          6.431789398193359,
+          23.432912826538086,
+          700.0,
+          700.0
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.2971370220184326,
+        "box": [
+          275.4565734863281,
+          4.700174331665039,
+          690.841796875,
+          567.010498046875
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.16028591990470886,
+        "box": [
+          78.4953842163086,
+          322.9483642578125,
+          576.914794921875,
+          659.2753295898438
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.006405830383300781,
+        "box": [
+          24.726566314697266,
+          97.50286865234375,
+          320.7069396972656,
+          398.60308837890625
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.005395442247390747,
+        "box": [
+          65.13272857666016,
+          0.0,
+          684.3486328125,
+          387.8758850097656
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0035864710807800293,
+        "box": [
+          42.044979095458984,
+          70.8798599243164,
+          269.86907958984375,
+          329.4349060058594
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0024886131286621094,
+        "box": [
+          66.91468048095703,
+          384.9475402832031,
+          488.2913513183594,
+          667.7946166992188
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0024209022521972656,
+        "box": [
+          82.42992401123047,
+          386.62579345703125,
+          392.62994384765625,
+          668.8095703125
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0020634829998016357,
+        "box": [
+          40.69378662109375,
+          75.01179504394531,
+          352.876220703125,
+          349.8116149902344
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0015107393264770508,
+        "box": [
+          140.55575561523438,
+          116.9626235961914,
+          641.6433715820312,
+          411.0489807128906
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0014395713806152344,
+        "box": [
+          162.21311950683594,
+          370.3621520996094,
+          700.0,
+          700.0
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0012864172458648682,
+        "box": [
+          252.3939666748047,
+          57.58943557739258,
+          622.2152099609375,
+          338.14031982421875
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0011996328830718994,
+        "box": [
+          11.900572776794434,
+          0.0,
+          540.2428588867188,
+          548.6362915039062
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.001147240400314331,
+        "box": [
+          41.797752380371094,
+          440.40899658203125,
+          538.4445190429688,
+          700.0
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.001101851463317871,
+        "box": [
+          192.25624084472656,
+          56.60413360595703,
+          300.751953125,
+          157.18826293945312
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0010984838008880615,
+        "box": [
+          165.8941192626953,
+          115.01231384277344,
+          649.4608154296875,
+          414.2194519042969
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.00105363130569458,
+        "box": [
+          15.075921058654785,
+          119.86422729492188,
+          124.84854125976562,
+          366.60357666015625
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_flip_005",
+    "category": "flip",
+    "image": "data\\prepared\\images\\test\\test_flip_005.png",
+    "truth": [
+      {
+        "class_id": 2,
+        "box": [
+          42,
+          35,
+          664,
+          659
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 1.0,
+        "box": [
+          18.378925323486328,
+          0.0,
+          700.0,
+          700.0
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.3854351043701172,
+        "box": [
+          268.7261047363281,
+          124.92755889892578,
+          696.5563354492188,
+          688.8890380859375
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.062212079763412476,
+        "box": [
+          38.431819915771484,
+          315.9579772949219,
+          542.90478515625,
+          671.1510009765625
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.003597259521484375,
+        "box": [
+          117.78707122802734,
+          0.0,
+          687.7506103515625,
+          413.58935546875
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.002202272415161133,
+        "box": [
+          16.308584213256836,
+          149.24139404296875,
+          120.58470153808594,
+          380.3490905761719
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0018768310546875,
+        "box": [
+          30.142845153808594,
+          235.0377197265625,
+          236.94667053222656,
+          491.1366271972656
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0017514526844024658,
+        "box": [
+          266.56878662109375,
+          168.96511840820312,
+          700.0,
+          436.219482421875
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0015819668769836426,
+        "box": [
+          0.0,
+          390.5960388183594,
+          503.15826416015625,
+          685.84130859375
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.001516789197921753,
+        "box": [
+          115.68936157226562,
+          74.83101654052734,
+          611.390380859375,
+          367.88983154296875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0010756254196166992,
+        "box": [
+          222.14682006835938,
+          173.44097900390625,
+          695.1466674804688,
+          474.6722412109375
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0010213255882263184,
+        "box": [
+          13.970559120178223,
+          208.38211059570312,
+          147.42747497558594,
+          435.5384521484375
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0010106563568115234,
+        "box": [
+          0.0,
+          311.39404296875,
+          422.74163818359375,
+          584.25390625
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_flip_001",
+    "category": "flip",
+    "image": "data\\prepared\\images\\test\\test_flip_001.png",
+    "truth": [
+      {
+        "class_id": 2,
+        "box": [
+          44,
+          36,
+          665,
+          663
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 1.0,
+        "box": [
+          16.213722229003906,
+          0.0,
+          700.0,
+          700.0
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.31397175788879395,
+        "box": [
+          247.77049255371094,
+          7.680549621582031,
+          692.1627197265625,
+          562.0211181640625
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.1306963860988617,
+        "box": [
+          7.231407165527344,
+          174.5565948486328,
+          488.001220703125,
+          674.0340576171875
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.05465632677078247,
+        "box": [
+          63.84565353393555,
+          324.98406982421875,
+          696.4099731445312,
+          678.0281372070312
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.010689198970794678,
+        "box": [
+          343.9971923828125,
+          150.44961547851562,
+          700.0,
+          699.3411254882812
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.009964525699615479,
+        "box": [
+          21.512540817260742,
+          207.579833984375,
+          321.89007568359375,
+          503.6226806640625
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0024234354496002197,
+        "box": [
+          0.0,
+          311.8528747558594,
+          470.8639831542969,
+          590.4799194335938
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0023525357246398926,
+        "box": [
+          15.717540740966797,
+          147.2527618408203,
+          122.7513656616211,
+          398.2059020996094
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0021326541900634766,
+        "box": [
+          0.0,
+          260.2308654785156,
+          497.2032470703125,
+          547.5830688476562
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.002065032720565796,
+        "box": [
+          23.975982666015625,
+          270.62457275390625,
+          322.5157775878906,
+          540.0322875976562
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.001554727554321289,
+        "box": [
+          225.18373107910156,
+          209.0586700439453,
+          696.0052490234375,
+          502.03692626953125
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0014716684818267822,
+        "box": [
+          226.1782989501953,
+          279.73419189453125,
+          311.0122375488281,
+          419.2104187011719
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.001408994197845459,
+        "box": [
+          61.720638275146484,
+          0.0,
+          700.0,
+          382.0054931640625
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0012933015823364258,
+        "box": [
+          12.323946952819824,
+          201.03395080566406,
+          192.81011962890625,
+          441.0103454589844
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.001246333122253418,
+        "box": [
+          37.21393585205078,
+          314.8346862792969,
+          174.056640625,
+          483.3683776855469
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0012222826480865479,
+        "box": [
+          7.374768257141113,
+          387.40625,
+          521.2470703125,
+          684.1273193359375
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0010719895362854004,
+        "box": [
+          410.3618469238281,
+          71.1498794555664,
+          696.4151611328125,
+          620.474365234375
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_flip_012",
+    "category": "flip",
+    "image": "data\\prepared\\images\\test\\test_flip_012.png",
+    "truth": [
+      {
+        "class_id": 2,
+        "box": [
+          44,
+          34,
+          665,
+          662
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 1.0,
+        "box": [
+          15.421915054321289,
+          0.0,
+          700.0,
+          700.0
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.09589490294456482,
+        "box": [
+          37.76762008666992,
+          295.3371887207031,
+          534.290771484375,
+          670.5479125976562
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.016000568866729736,
+        "box": [
+          331.6041259765625,
+          70.23632049560547,
+          694.0433349609375,
+          620.81298828125
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.005855649709701538,
+        "box": [
+          23.190250396728516,
+          253.61473083496094,
+          325.0243225097656,
+          540.17138671875
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0058221518993377686,
+        "box": [
+          71.0349349975586,
+          0.0,
+          699.316650390625,
+          380.04364013671875
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0023887157440185547,
+        "box": [
+          213.89430236816406,
+          104.53053283691406,
+          687.783203125,
+          379.3139343261719
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.002253413200378418,
+        "box": [
+          0.0,
+          348.0542297363281,
+          512.0451049804688,
+          628.3103637695312
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0019608736038208008,
+        "box": [
+          25.100072860717773,
+          306.16253662109375,
+          320.91229248046875,
+          586.1038208007812
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0016487538814544678,
+        "box": [
+          15.468111038208008,
+          207.47166442871094,
+          170.40646362304688,
+          433.9900817871094
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0016332566738128662,
+        "box": [
+          549.732666015625,
+          344.9902038574219,
+          676.1746826171875,
+          561.8682861328125
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.001487821340560913,
+        "box": [
+          397.3603210449219,
+          350.744873046875,
+          474.62384033203125,
+          462.41265869140625
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0014348924160003662,
+        "box": [
+          402.2605285644531,
+          73.7398681640625,
+          692.2410888671875,
+          632.747314453125
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0013856291770935059,
+        "box": [
+          15.964659690856934,
+          153.13722229003906,
+          117.80497741699219,
+          378.20465087890625
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0013644397258758545,
+        "box": [
+          367.1124572753906,
+          150.9822540283203,
+          670.8866577148438,
+          359.56494140625
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0013094544410705566,
+        "box": [
+          504.78778076171875,
+          148.9958953857422,
+          679.6635131835938,
+          343.1183776855469
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0012241601943969727,
+        "box": [
+          43.21459197998047,
+          422.60272216796875,
+          566.9660034179688,
+          700.0
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0011283457279205322,
+        "box": [
+          120.18168640136719,
+          22.700218200683594,
+          399.078369140625,
+          276.0895080566406
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_flip_006",
+    "category": "flip",
+    "image": "data\\prepared\\images\\test\\test_flip_006.png",
+    "truth": [
+      {
+        "class_id": 2,
+        "box": [
+          43,
+          39,
+          661,
+          658
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 1.0,
+        "box": [
+          8.3270263671875,
+          0.0,
+          700.0,
+          700.0
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.5923895835876465,
+        "box": [
+          269.8447570800781,
+          0.0,
+          691.0506591796875,
+          556.702392578125
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.2388334572315216,
+        "box": [
+          77.35584259033203,
+          313.54937744140625,
+          657.5775146484375,
+          666.3980712890625
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.049915045499801636,
+        "box": [
+          27.265377044677734,
+          132.76498413085938,
+          272.88446044921875,
+          426.8353271484375
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.005209594964981079,
+        "box": [
+          114.0593490600586,
+          421.7798767089844,
+          427.26531982421875,
+          700.0
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.002370476722717285,
+        "box": [
+          36.60416030883789,
+          185.0470428466797,
+          171.34117126464844,
+          405.2794189453125
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.002118021249771118,
+        "box": [
+          0.0,
+          117.92322540283203,
+          443.01361083984375,
+          404.5001220703125
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0020060837268829346,
+        "box": [
+          22.145265579223633,
+          200.95388793945312,
+          314.53424072265625,
+          483.04815673828125
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0019683241844177246,
+        "box": [
+          4.637088775634766,
+          0.0,
+          533.1399536132812,
+          567.7877807617188
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0018762946128845215,
+        "box": [
+          6.286258697509766,
+          1.7960357666015625,
+          308.51507568359375,
+          353.3304443359375
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0018638372421264648,
+        "box": [
+          54.2900276184082,
+          0.0,
+          700.0,
+          362.2745361328125
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0017071366310119629,
+        "box": [
+          54.74614715576172,
+          385.7330627441406,
+          549.1705932617188,
+          679.0640869140625
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0016106963157653809,
+        "box": [
+          221.6642303466797,
+          208.96707153320312,
+          693.9443359375,
+          496.8077087402344
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0013730823993682861,
+        "box": [
+          7.711174488067627,
+          234.0154571533203,
+          248.15147399902344,
+          518.8499755859375
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.001337289810180664,
+        "box": [
+          0.0,
+          327.3121643066406,
+          506.9720153808594,
+          611.2305908203125
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0013158321380615234,
+        "box": [
+          135.0850067138672,
+          116.06793975830078,
+          628.8676147460938,
+          413.0083923339844
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.001149892807006836,
+        "box": [
+          14.362444877624512,
+          75.49615478515625,
+          202.953857421875,
+          342.13775634765625
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0010854899883270264,
+        "box": [
+          12.690214157104492,
+          133.57835388183594,
+          141.858642578125,
+          384.1246337890625
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0010317564010620117,
+        "box": [
+          32.615867614746094,
+          294.12109375,
+          519.9144287109375,
+          584.6458129882812
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_scratch_015",
+    "category": "scratch",
+    "image": "data\\prepared\\images\\test\\test_scratch_015.png",
+    "truth": [
+      {
+        "class_id": 3,
+        "box": [
+          145,
+          210,
+          267,
+          329
+        ]
+      },
+      {
+        "class_id": 3,
+        "box": [
+          412,
+          418,
+          565,
+          577
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.3971666097640991,
+        "box": [
+          135.1439666748047,
+          197.01638793945312,
+          266.5160217285156,
+          342.73046875
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.32660937309265137,
+        "box": [
+          409.6018371582031,
+          400.55169677734375,
+          572.4381713867188,
+          573.5975341796875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.26252132654190063,
+        "box": [
+          406.7430725097656,
+          386.2671203613281,
+          568.561767578125,
+          585.080078125
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.22629863023757935,
+        "box": [
+          134.75900268554688,
+          194.6499786376953,
+          275.6037902832031,
+          343.44677734375
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.06382593512535095,
+        "box": [
+          404.4807434082031,
+          392.0946960449219,
+          567.5053100585938,
+          579.23193359375
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.021560460329055786,
+        "box": [
+          124.2904052734375,
+          194.82672119140625,
+          255.78872680664062,
+          330.7952575683594
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0014112889766693115,
+        "box": [
+          133.2086181640625,
+          191.6063232421875,
+          345.18182373046875,
+          368.180908203125
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_scratch_018",
+    "category": "scratch",
+    "image": "data\\prepared\\images\\test\\test_scratch_018.png",
+    "truth": [
+      {
+        "class_id": 3,
+        "box": [
+          343,
+          60,
+          502,
+          253
+        ]
+      },
+      {
+        "class_id": 3,
+        "box": [
+          114,
+          390,
+          258,
+          594
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.7527866363525391,
+        "box": [
+          340.0416564941406,
+          54.846031188964844,
+          462.8358459472656,
+          279.1587219238281
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.6137424111366272,
+        "box": [
+          323.51629638671875,
+          48.62717056274414,
+          488.9216613769531,
+          272.6173400878906
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.3071427643299103,
+        "box": [
+          329.02288818359375,
+          62.23968505859375,
+          447.6878662109375,
+          280.8568420410156
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.05938240885734558,
+        "box": [
+          339.628173828125,
+          154.2130126953125,
+          433.351806640625,
+          264.0133361816406
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.039179593324661255,
+        "box": [
+          96.59138488769531,
+          383.0664978027344,
+          254.3180389404297,
+          609.356201171875
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.027197986841201782,
+        "box": [
+          339.52166748046875,
+          141.77874755859375,
+          442.8565368652344,
+          264.6552734375
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.02009555697441101,
+        "box": [
+          395.8210144042969,
+          62.79987335205078,
+          501.4264831542969,
+          189.0849609375
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.01366308331489563,
+        "box": [
+          102.39656829833984,
+          379.73291015625,
+          266.514404296875,
+          608.6441040039062
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.006699889898300171,
+        "box": [
+          108.01264953613281,
+          494.0227966308594,
+          212.0006103515625,
+          601.8938598632812
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.005470991134643555,
+        "box": [
+          341.9347229003906,
+          150.89413452148438,
+          427.7811584472656,
+          260.02935791015625
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.005195498466491699,
+        "box": [
+          266.5612487792969,
+          99.2188949584961,
+          423.7071533203125,
+          287.7114562988281
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.00405198335647583,
+        "box": [
+          171.40802001953125,
+          400.1898498535156,
+          272.0816955566406,
+          544.162841796875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.002550750970840454,
+        "box": [
+          375.2385559082031,
+          59.12680435180664,
+          493.98126220703125,
+          239.92019653320312
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.002412259578704834,
+        "box": [
+          342.89691162109375,
+          46.79020690917969,
+          450.65997314453125,
+          148.61788940429688
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.002369314432144165,
+        "box": [
+          109.24910736083984,
+          497.82000732421875,
+          209.2460479736328,
+          606.44091796875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0015687346458435059,
+        "box": [
+          166.1988983154297,
+          398.4404296875,
+          269.9043273925781,
+          544.4678955078125
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0015107989311218262,
+        "box": [
+          172.11134338378906,
+          56.334197998046875,
+          443.42315673828125,
+          305.3736572265625
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0013389885425567627,
+        "box": [
+          323.301513671875,
+          20.37409019470215,
+          493.864501953125,
+          86.51644134521484
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0012306571006774902,
+        "box": [
+          93.59129333496094,
+          386.8885498046875,
+          220.07305908203125,
+          600.8893432617188
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0011887550354003906,
+        "box": [
+          159.2667999267578,
+          401.5828857421875,
+          255.09149169921875,
+          573.689208984375
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_scratch_021",
+    "category": "scratch",
+    "image": "data\\prepared\\images\\test\\test_scratch_021.png",
+    "truth": [
+      {
+        "class_id": 3,
+        "box": [
+          59,
+          316,
+          451,
+          556
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.010433018207550049,
+        "box": [
+          147.970947265625,
+          364.77435302734375,
+          507.6128845214844,
+          566.56640625
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.008740991353988647,
+        "box": [
+          0.0,
+          313.84869384765625,
+          468.6752014160156,
+          577.2379150390625
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.004365861415863037,
+        "box": [
+          65.46004486083984,
+          339.66864013671875,
+          511.7945556640625,
+          589.7149658203125
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.003935724496841431,
+        "box": [
+          32.65789031982422,
+          229.44772338867188,
+          318.3211364746094,
+          476.1246337890625
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.001995950937271118,
+        "box": [
+          194.86370849609375,
+          404.8887634277344,
+          501.20220947265625,
+          659.9046020507812
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0015422403812408447,
+        "box": [
+          330.5870666503906,
+          44.813575744628906,
+          479.86639404296875,
+          169.03489685058594
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0012175440788269043,
+        "box": [
+          47.125946044921875,
+          185.34922790527344,
+          481.83013916015625,
+          505.0477294921875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0011859238147735596,
+        "box": [
+          0.0,
+          256.8008117675781,
+          470.1331787109375,
+          528.8717041015625
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_scratch_001",
+    "category": "scratch",
+    "image": "data\\prepared\\images\\test\\test_scratch_001.png",
+    "truth": [
+      {
+        "class_id": 3,
+        "box": [
+          323,
+          337,
+          610,
+          625
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.33772680163383484,
+        "box": [
+          330.3074951171875,
+          376.63946533203125,
+          585.5130615234375,
+          612.4029541015625
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.3185963034629822,
+        "box": [
+          289.91290283203125,
+          371.4914245605469,
+          626.0010986328125,
+          617.797607421875
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0012729465961456299,
+        "box": [
+          249.93421936035156,
+          243.451171875,
+          675.3056030273438,
+          633.9020385742188
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0012252628803253174,
+        "box": [
+          287.3050537109375,
+          264.5924377441406,
+          681.6975708007812,
+          626.3817749023438
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0011747777462005615,
+        "box": [
+          360.5854797363281,
+          462.3042297363281,
+          564.2361450195312,
+          644.9122924804688
+        ]
+      }
+    ]
+  },
+  {
+    "id": "test_scratch_010",
+    "category": "scratch",
+    "image": "data\\prepared\\images\\test\\test_scratch_010.png",
+    "truth": [
+      {
+        "class_id": 3,
+        "box": [
+          66,
+          77,
+          585,
+          304
+        ]
+      },
+      {
+        "class_id": 3,
+        "box": [
+          435,
+          82,
+          616,
+          253
+        ]
+      }
+    ],
+    "predictions": [
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.3339434266090393,
+        "box": [
+          338.76715087890625,
+          49.83644485473633,
+          627.2066040039062,
+          265.8562927246094
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.3281843066215515,
+        "box": [
+          373.7996826171875,
+          37.44594955444336,
+          631.2965087890625,
+          268.6959228515625
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.17463797330856323,
+        "box": [
+          43.50770568847656,
+          60.22908020019531,
+          292.19110107421875,
+          296.36663818359375
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.04047313332557678,
+        "box": [
+          47.605796813964844,
+          60.897586822509766,
+          316.3574523925781,
+          292.32733154296875
+        ]
+      },
+      {
+        "class_id": 0,
+        "label": "bent",
+        "score": 0.0304548442363739,
+        "box": [
+          408.65179443359375,
+          50.775962829589844,
+          529.1114501953125,
+          151.1916961669922
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.023091495037078857,
+        "box": [
+          471.56207275390625,
+          74.73905181884766,
+          628.1875,
+          262.45477294921875
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.011659741401672363,
+        "box": [
+          155.04994201660156,
+          57.255516052246094,
+          665.822021484375,
+          321.0516357421875
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0060231685638427734,
+        "box": [
+          541.9129638671875,
+          153.6655731201172,
+          631.35693359375,
+          264.8025817871094
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.004855334758758545,
+        "box": [
+          25.707664489746094,
+          0.0,
+          574.1903076171875,
+          396.2051696777344
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0030251741409301758,
+        "box": [
+          388.0670166015625,
+          19.96781349182129,
+          561.3536376953125,
+          152.55892944335938
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0025875866413116455,
+        "box": [
+          157.9267120361328,
+          45.54791259765625,
+          628.7849731445312,
+          323.2988586425781
+        ]
+      },
+      {
+        "class_id": 3,
+        "label": "scratch",
+        "score": 0.0023491978645324707,
+        "box": [
+          53.498619079589844,
+          11.493620872497559,
+          530.25,
+          272.4264221191406
+        ]
+      },
+      {
+        "class_id": 2,
+        "label": "flip",
+        "score": 0.0020315051078796387,
+        "box": [
+          259.8102722167969,
+          4.616360664367676,
+          700.0,
+          413.5489501953125
+        ]
+      },
+      {
+        "class_id": 1,
+        "label": "color",
+        "score": 0.0013569295406341553,
+        "box": [
+          39.607215881347656,
+          77.73058319091797,
+          190.23170471191406,
+          287.1659240722656
+        ]
+      }
+    ]
+  }
+]

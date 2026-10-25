@@ -1,0 +1,7 @@
+{
+  "model": "runs/augmented/weights/best.pt",
+  "experiment": "augmented_val",
+  "criterion": "Highest validation mAP50; tie -> baseline",
+  "confidence": 0.25,
+  "validation_map50": 0.46278679653679655
+}

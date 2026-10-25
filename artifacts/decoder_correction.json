@@ -1,0 +1,6 @@
+{
+  "change": "Move boundary clipping after NMS; clipping changes IoU and can suppress extra boxes.",
+  "model_or_threshold_changed": false,
+  "reason": "Reference-versus-ONNX deployment verification; no training/selection changes.",
+  "original_results": "*_decoder_v1.json"
+}

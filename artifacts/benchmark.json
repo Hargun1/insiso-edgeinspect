@@ -1,0 +1,68 @@
+{
+  "status": "measured",
+  "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "onnxruntime": "1.23.1",
+  "provider": "CPUExecutionProvider",
+  "threads": 1,
+  "image_size": [
+    320,
+    320
+  ],
+  "batch": 1,
+  "warmup": 20,
+  "iterations": 100,
+  "model_bytes": 10441129,
+  "timing_ms": {
+    "preprocess": {
+      "mean": 1.9869220003602095,
+      "p50": 1.994149999518413,
+      "p95": 2.6171299949055538
+    },
+    "inference": {
+      "mean": 40.45154899984482,
+      "p50": 39.11040000821231,
+      "p95": 50.74495999506325
+    },
+    "postprocess": {
+      "mean": 1.1798310003359802,
+      "p50": 0.9971500039682724,
+      "p95": 1.803375004965346
+    },
+    "total": {
+      "mean": 43.61830200054101,
+      "p50": 41.80545000417624,
+      "p95": 55.18937000597361
+    }
+  },
+  "excluded": "Disk reading, image decoding, HTTP and UI rendering",
+  "parity_counts": [
+    {
+      "image": "test_bent_003.png",
+      "pytorch_detections": 2,
+      "onnx_detections": 2
+    },
+    {
+      "image": "test_bent_006.png",
+      "pytorch_detections": 1,
+      "onnx_detections": 1
+    },
+    {
+      "image": "test_bent_013.png",
+      "pytorch_detections": 1,
+      "onnx_detections": 1
+    },
+    {
+      "image": "test_bent_016.png",
+      "pytorch_detections": 2,
+      "onnx_detections": 2
+    },
+    {
+      "image": "test_bent_021.png",
+      "pytorch_detections": 0,
+      "onnx_detections": 0
+    }
+  ],
+  "parity_note": "Counts are a smoke check; evaluate ONNX on the frozen test set too.",
+  "cpu_identity_source": "Windows processor registry"
+}

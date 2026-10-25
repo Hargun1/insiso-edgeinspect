@@ -1,0 +1,6 @@
+{
+  "good.png": "test_good_002",
+  "flip.png": "test_flip_021",
+  "source": "MVTec AD metal_nut, held-out images shown only after model selection and evaluation",
+  "license": "CC-BY-NC-SA-4.0"
+}

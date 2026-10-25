@@ -1,0 +1,183 @@
+{
+  "status": "measured",
+  "name": "selected_test",
+  "split": "test",
+  "model": "runs/augmented/weights/best.pt",
+  "metrics": {
+    "precision": 0.34375,
+    "recall": 0.4074074074074074,
+    "map50": 0.5182126674546887,
+    "tp": 11,
+    "fp": 21,
+    "fn": 16,
+    "confidence": 0.25,
+    "iou": 0.5,
+    "images": 69,
+    "per_class": {
+      "bent": {
+        "instances": 9,
+        "ap50": 0.2074074074074074
+      },
+      "color": {
+        "instances": 5,
+        "ap50": 0.3233333333333333
+      },
+      "flip": {
+        "instances": 5,
+        "ap50": 1.0
+      },
+      "scratch": {
+        "instances": 8,
+        "ap50": 0.5421099290780141
+      }
+    },
+    "ap_method": "all-points interpolated AP, class macro average"
+  },
+  "threshold_sweep": [],
+  "failures": [
+    {
+      "id": "test_bent_007",
+      "category": "bent",
+      "false_positives": 1,
+      "misses": 0,
+      "image": "failures/selected_test/test_bent_007.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_bent_015",
+      "category": "bent",
+      "false_positives": 0,
+      "misses": 4,
+      "image": "failures/selected_test/test_bent_015.jpg",
+      "analysis": "No detection above 0.25, despite visible damage on the upper lug and left edge. Hypothesis: The damage spans several disconnected mask components and scales. Limited pose/defect examples may leave this appearance uncovered; this is a hypothesis, not an observed internal cause."
+    },
+    {
+      "id": "test_bent_018",
+      "category": "bent",
+      "false_positives": 0,
+      "misses": 2,
+      "image": "failures/selected_test/test_bent_018.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_bent_023",
+      "category": "bent",
+      "false_positives": 1,
+      "misses": 1,
+      "image": "failures/selected_test/test_bent_023.jpg",
+      "analysis": "A bent prediction at confidence 0.420 covers only part of the upper-edge defect; IoU is 0.486, below the fixed 0.5 matching cutoff. Hypothesis: The box follows the visually strongest notch but underestimates the annotated extent. This demonstrates why finding a defect-looking region is not sufficient for correct localization."
+    },
+    {
+      "id": "test_color_013",
+      "category": "color",
+      "false_positives": 3,
+      "misses": 0,
+      "image": "failures/selected_test/test_color_013.jpg",
+      "analysis": "The red patch is correctly detected as color at confidence 0.878, but two bent boxes and a second color box remain as false positives. Hypothesis: The same high-contrast region triggers multiple class heads. Class-aware NMS intentionally keeps different classes; partial boxes also escape same-class suppression. This is classification and duplicate-counting failure, not a missed red patch."
+    },
+    {
+      "id": "test_color_004",
+      "category": "color",
+      "false_positives": 0,
+      "misses": 1,
+      "image": "failures/selected_test/test_color_004.jpg",
+      "analysis": "The dark blue patch beside the inner ring has no prediction above the operating threshold. Hypothesis: The relatively small, dark patch blends into the inner-rim shadow and metallic texture. More representative dark-color flaws and higher-resolution validation are plausible next experiments."
+    },
+    {
+      "id": "test_color_014",
+      "category": "color",
+      "false_positives": 2,
+      "misses": 1,
+      "image": "failures/selected_test/test_color_014.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_color_017",
+      "category": "color",
+      "false_positives": 1,
+      "misses": 1,
+      "image": "failures/selected_test/test_color_017.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_color_006",
+      "category": "color",
+      "false_positives": 1,
+      "misses": 0,
+      "image": "failures/selected_test/test_color_006.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_flip_021",
+      "category": "flip",
+      "false_positives": 1,
+      "misses": 0,
+      "image": "failures/selected_test/test_flip_021.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_flip_005",
+      "category": "flip",
+      "false_positives": 1,
+      "misses": 0,
+      "image": "failures/selected_test/test_flip_005.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_flip_001",
+      "category": "flip",
+      "false_positives": 1,
+      "misses": 0,
+      "image": "failures/selected_test/test_flip_001.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_flip_006",
+      "category": "flip",
+      "false_positives": 1,
+      "misses": 0,
+      "image": "failures/selected_test/test_flip_006.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_scratch_015",
+      "category": "scratch",
+      "false_positives": 3,
+      "misses": 2,
+      "image": "failures/selected_test/test_scratch_015.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_scratch_018",
+      "category": "scratch",
+      "false_positives": 2,
+      "misses": 1,
+      "image": "failures/selected_test/test_scratch_018.jpg",
+      "analysis": "The upper scratch is matched at confidence 0.307, but higher-scoring color (0.753) and bent (0.614) boxes overlap it. The separate lower-left scratch is missed. Hypothesis: A dark scar can resemble staining or deformation, while the second scar has different orientation and local texture. The pattern suggests class ambiguity and incomplete coverage across multiple defects."
+    },
+    {
+      "id": "test_scratch_021",
+      "category": "scratch",
+      "false_positives": 0,
+      "misses": 1,
+      "image": "failures/selected_test/test_scratch_021.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_scratch_001",
+      "category": "scratch",
+      "false_positives": 1,
+      "misses": 0,
+      "image": "failures/selected_test/test_scratch_001.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    },
+    {
+      "id": "test_scratch_010",
+      "category": "scratch",
+      "false_positives": 2,
+      "misses": 2,
+      "image": "failures/selected_test/test_scratch_010.jpg",
+      "analysis": "Automatically identified error; not individually reviewed. See the five reviewed final-test cases in docs/REPORT.md."
+    }
+  ]
+}

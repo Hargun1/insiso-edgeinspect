@@ -1,0 +1,15 @@
+# Model card
+- Task: four-class metal_nut defect localization; box output from mask components.
+- Architecture: Ultralytics YOLO11n, COCO-pretrained then fine-tuned.
+- Selected run: augmented, selected using validation mAP50 only.
+- Dataset: MVTec AD metal_nut; custom supervised split, seed 42; not official anomaly protocol.
+- Input: RGB, letterbox 320x320, float32 /255, fixed batch 1.
+- Output: raw [1, 8, 2100] detector tensor; four box coordinates and four class scores. Runtime applies class-aware NMS 0.5 and confidence 0.25.
+- Classes: 0 bent; 1 color; 2 flip; 3 scratch.
+- Test: precision 0.3438, recall 0.4074, mAP50 0.5182; 69 images.
+- CPU model execution: 40.45 ms mean, 50.74 ms p95 on Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz.
+- Intended use: non-commercial take-home demonstration and research.
+- Limitations: small positive sample, fragmented mask labels, limited appearance coverage, missed defects, extra and wrong-class boxes, no unknown-defect guarantee, no production calibration/actuator validation.
+- Use REVIEW / NO_DEFECT_DETECTED as advisory outputs. A negative result does not certify a safe or acceptable part.
+- Training source, versions, checksums and measured outputs: artifacts/.
+- Dataset/derived-image license: CC BY-NC-SA 4.0. Framework/project code: AGPL-3.0; see notices.

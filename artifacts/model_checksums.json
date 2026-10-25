@@ -1,0 +1,10 @@
+{
+  "metal-nut.onnx": {
+    "bytes": 10441129,
+    "sha256": "b09004ceb3b4910c1fdfef65260e265c276d260ecd3d79a7aadeca1c21d0adce"
+  },
+  "best-model.pt": {
+    "bytes": 5430426,
+    "sha256": "4e12921c174fd47aca591ba0cee5b9ea042ed36919bb8cf8fcb36f2e7ee7df10"
+  }
+}

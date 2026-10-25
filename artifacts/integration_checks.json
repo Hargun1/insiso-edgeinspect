@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "transport": "Direct route functions with real ONNX; no HTTP transport",
+  "checks": [
+    "health function: real ONNX model loaded",
+    "inspection function: real upload decode, ONNX inference, coordinates and flip detection",
+    "results function: measured experiment files served",
+    "React production build exists"
+  ],
+  "limitations": "Socket and browser integration not verified in the restricted execution session."
+}

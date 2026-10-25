@@ -1,0 +1,24 @@
+test_corrupt_image (test_api.TestAPI.test_corrupt_image) ... ok
+test_missing_model (test_api.TestAPI.test_missing_model) ... ok
+test_oversized_upload (test_api.TestAPI.test_oversized_upload) ... ok
+test_unsupported_type (test_api.TestAPI.test_unsupported_type) ... ok
+test_valid_image_decoded_as_bgr (test_api.TestAPI.test_valid_image_decoded_as_bgr) ... ok
+test_ap_independent_of_operating_threshold (test_metrics.TestMetrics.test_ap_independent_of_operating_threshold) ... ok
+test_duplicate (test_metrics.TestMetrics.test_duplicate) ... ok
+test_empty (test_metrics.TestMetrics.test_empty) ... ok
+test_good_image_fp (test_metrics.TestMetrics.test_good_image_fp) ... ok
+test_wrong_class (test_metrics.TestMetrics.test_wrong_class) ... ok
+test_dedup_split_labels_and_freeze (test_prepare.TestPrepare.test_dedup_split_labels_and_freeze) ... ok
+test_pixel_edges_and_disconnected_regions (test_prepare.TestPrepare.test_pixel_edges_and_disconnected_regions) ... ok
+test_class_aware_nms_and_inverse_coordinates (test_runtime.TestRuntime.test_class_aware_nms_and_inverse_coordinates) ... ok
+test_letterbox_channels_and_range (test_runtime.TestRuntime.test_letterbox_channels_and_range) ... ok
+test_nms_precedes_clipping (test_runtime.TestRuntime.test_nms_precedes_clipping) ... ok
+test_wrong_output_rejected (test_runtime.TestRuntime.test_wrong_output_rejected) ... ok
+test_better_augmentation (test_selection.TestSelection.test_better_augmentation) ... ok
+test_test_cannot_select (test_selection.TestSelection.test_test_cannot_select) ... ok
+test_tie_favors_baseline (test_selection.TestSelection.test_tie_favors_baseline) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 1.081s
+
+OK

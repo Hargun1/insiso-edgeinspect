@@ -1,0 +1,47 @@
+[
+  {
+    "id": "test_bent_015",
+    "type": "Miss: 4 components",
+    "observation": "No detection above 0.25, despite visible damage on the upper lug and left edge.",
+    "hypothesis": "The damage spans several disconnected mask components and scales. Limited pose/defect examples may leave this appearance uncovered; this is a hypothesis, not an observed internal cause.",
+    "image": "docs/images/test_bent_015.jpg",
+    "false_positives": 0,
+    "misses": 4
+  },
+  {
+    "id": "test_bent_023",
+    "type": "Localization FP + miss",
+    "observation": "A bent prediction at confidence 0.420 covers only part of the upper-edge defect; IoU is 0.486, below the fixed 0.5 matching cutoff.",
+    "hypothesis": "The box follows the visually strongest notch but underestimates the annotated extent. This demonstrates why finding a defect-looking region is not sufficient for correct localization.",
+    "image": "docs/images/test_bent_023.jpg",
+    "false_positives": 1,
+    "misses": 1
+  },
+  {
+    "id": "test_color_004",
+    "type": "Miss: 1 component",
+    "observation": "The dark blue patch beside the inner ring has no prediction above the operating threshold.",
+    "hypothesis": "The relatively small, dark patch blends into the inner-rim shadow and metallic texture. More representative dark-color flaws and higher-resolution validation are plausible next experiments.",
+    "image": "docs/images/test_color_004.jpg",
+    "false_positives": 0,
+    "misses": 1
+  },
+  {
+    "id": "test_color_013",
+    "type": "3 extra detections",
+    "observation": "The red patch is correctly detected as color at confidence 0.878, but two bent boxes and a second color box remain as false positives.",
+    "hypothesis": "The same high-contrast region triggers multiple class heads. Class-aware NMS intentionally keeps different classes; partial boxes also escape same-class suppression. This is classification and duplicate-counting failure, not a missed red patch.",
+    "image": "docs/images/test_color_013.jpg",
+    "false_positives": 3,
+    "misses": 0
+  },
+  {
+    "id": "test_scratch_018",
+    "type": "2 FPs + 1 miss",
+    "observation": "The upper scratch is matched at confidence 0.307, but higher-scoring color (0.753) and bent (0.614) boxes overlap it. The separate lower-left scratch is missed.",
+    "hypothesis": "A dark scar can resemble staining or deformation, while the second scar has different orientation and local texture. The pattern suggests class ambiguity and incomplete coverage across multiple defects.",
+    "image": "docs/images/test_scratch_018.jpg",
+    "false_positives": 2,
+    "misses": 1
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "counts": {
+    "train/good": 145,
+    "val/good": 48,
+    "test/good": 49,
+    "train/bent": 15,
+    "val/bent": 5,
+    "test/bent": 5,
+    "train/color": 13,
+    "val/color": 4,
+    "test/color": 5,
+    "train/flip": 13,
+    "val/flip": 5,
+    "test/flip": 5,
+    "train/scratch": 13,
+    "val/scratch": 5,
+    "test/scratch": 5
+  },
+  "unique_images": 335,
+  "tiny_box_image_ids": [],
+  "note": "Exact-byte duplicate check only. Review contact sheet and tiny labels manually."
+}
